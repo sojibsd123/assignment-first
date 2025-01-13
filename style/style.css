@@ -51,7 +51,7 @@
 .Vision-container{
   width: 1200px;
   margin: 0 auto;
-  padding: 70px 0px;
+  padding: 70px 0px 0px 0px;
 }
 .vision-title{
   margin-bottom: 20px;
@@ -103,5 +103,57 @@
   border-radius: 8px;
   background-color: #006A50;
   color: #fff;
+}
+
+/* news section */
+.recent-container{
+  width: 1200px;
+  margin: 0 auto;
+  padding: 70px 0px 0px 0px;
+}
+.news-container{
+  display: flex;
+  gap: 40px;
+  padding: 40px;
+  background-color: #f5f5f5;
+  border-radius: 24px;
+  margin-top: 50px;
+}
+.satelite-img{
+  border-radius: 24px;
+}
+.news-contant{
+  margin-top: 30px;
+}
+.news-title{
+  font-size: 32px;
+  color: rgba(14, 14, 14, 0.8);
+}
+.al-jazeera{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.inline-time{
+  display: flex;
+  gap: 30px;
+  margin-bottom: 15px;
+}
+.date {
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.7);
+}
+.time{
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.7);
+}
+.news-desc{
+  font-size: 16px;
+  color:rgba(14, 14, 14, 0.7) ;
+  margin-bottom: 10px;
+}
+.recentt-container{
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0px 0px 70px 0px;
 }
 
