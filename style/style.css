@@ -181,6 +181,7 @@
   gap: 30px;
   justify-content: center;
   margin-top: 30px;
+  margin-bottom: 30px;
   
 }
 .donate-box{
@@ -189,6 +190,7 @@
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
   border: none;
   border-radius: 16px;
+  
 }
 .box-title{
   font-size: 40px;
@@ -202,3 +204,21 @@
   border: none;
   border-radius: 16px;
 }
+.form{
+  text-align: center;
+  
+}
+.input{
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: none;
+  border-bottom: 3px solid #C6E4D6;
+  padding: 20px 180px;
+  width: 600px;
+  text-align: center;
+  color: black;
+  
+}
+.input-btn{
+  text-align: center;
+}
+
